@@ -112,8 +112,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:029987_0000_0FE3B58694E810E8"/>
-            <pb facs="tcp:029987_0001_0FE3B588A5369898"/>
+            <pb facs="unknown:029987_0000_0FE3B58694E810E8"/>
+            <pb facs="unknown:029987_0001_0FE3B588A5369898"/>
             <p>Amusement Hall; OR, <hi>AN EASY INTRODUCTION</hi> TO THE ATTAINMENT OF USEFUL KNOWLEDGE.</p>
             <p>
                <hi>BY A LADY.</hi>
@@ -131,7 +131,7 @@
             <p>M.DCC.XCVI.</p>
          </div>
          <div type="review">
-            <pb facs="tcp:029987_0002_0FE3B58E4DA3DDF8"/>
+            <pb facs="unknown:029987_0002_0FE3B58E4DA3DDF8"/>
             <head>Review:</head>
             <head>FROM THE EVANGELICAL MAGAZINE.</head>
             <q>
@@ -142,10 +142,10 @@
       </front>
       <body>
          <div n="1" type="part">
-            <pb facs="tcp:029987_0003_0FE3B5929510A3A0"/>
+            <pb facs="unknown:029987_0003_0FE3B5929510A3A0"/>
             <head>Amuſement Hall, &amp;c.</head>
             <p>AMUSEMENT HALL, though not a ſu<g ref="char:EOLhyphen"/>perb, is a handſome ſtructure, ſituated in a delightful ſpot, on a riſing ground, commanding a pleaſing view of the road and adjacent country. The ſurrounding hills are interſperſed with hanging woods and ſhady groves, the manſions of the opulent, and the cottages of the poor: thus is the eye gratified with an extenſive proſpect, while the diverſified ſcenes that it exhibits, afford ample materials for contemplation to a reflecting mind. The furniture of the houſe is elegantly neat; the library, though not large, contains many valuable productions. Mrs. Smith, the proprietor of this man<g ref="char:EOLhyphen"/>ſion, is deſcended from an ancient family: ſhe poſſeſſes this eſtate in her own right, beſides an ample fortune left her by Mr. Smith. She is generous, though not profuſe; no object of diſtreſs is paſſed by unnoticed; ſhe diſtributes not her bounty through the hands of ſer<g ref="char:EOLhyphen"/>vants, but viſits the cottages herſelf, and relieves them that are in want, according to their various neceſſities. As induſtry leads to happineſs, ſhe finds the Poor em<g ref="char:EOLhyphen"/>ployment ſuited to their abilities: there are none idle in the village; the children are employed according to their different ages, and are taught to read and write
-<pb n="4" facs="tcp:029987_0004_0FE3B59759E37CB8"/>
+<pb n="4" facs="unknown:029987_0004_0FE3B59759E37CB8"/>
 under her own inſpection. Her company is ſought by the lovers of literature: her converſation is eaſy and unaffected; ſhe ſeeks not to kill time, but to improve it, and therefore never finds it hang heavy on her hands. By the cheerfulneſs of her temper, her hap<g ref="char:EOLhyphen"/>pineſs is made apparent to all; even thoſe, who follow a round of folly and diſſipation, approve of her conduct, though they have not reſolution to imitate it.</p>
             <p>Her ſiſter, Mrs. Denew, is alſo a very amiable cha<g ref="char:EOLhyphen"/>racter, and has the happineſs of being united to a wor<g ref="char:EOLhyphen"/>thy gentleman, whoſe manners and diſpoſition accord with her own. They are bleſſed with ſeveral children. Amelia, the eldeſt daughter, poſſeſſes every advantage which can be derived from education, good ſenſe, and and an amiable diſpoſition. She was about ten years of age at the period, to which this little hiſtory refers, and had juſt obtained permiſſion of her papa and mamma to pay a viſit to her aunt at Amuſement Hall, which was about twenty miles from Mr. Denew's.</p>
             <p>Upon Amelia's arrival, the following converſation took place:</p>
@@ -158,7 +158,7 @@ under her own inſpection. Her company is ſought by the lovers of literature: h
                <p>My mamma was with difficulty prevailed on laſt ſum<g ref="char:EOLhyphen"/>mer to part with me, <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> your indulgence would ſpoil me; but when I returned home, my papa and
-<pb n="5" facs="tcp:029987_0005_0FE34DD15B96D9D8"/>
+<pb n="5" facs="unknown:029987_0005_0FE34DD15B96D9D8"/>
 mamma were both pleaſed to find me ſo much improved, and ſaid, if my aunt requeſted it, my viſit ſhould be longer next time. When your letter came, I jumped for joy; my brothers and ſiſters cried, "Pray, mamma, let me go—pray, mamma, let me go." Mamma told them, that they muſt ſtay till they were old enough to leave the nurſery.</p>
             </sp>
             <sp>
@@ -185,7 +185,7 @@ mamma were both pleaſed to find me ſo much improved, and ſaid, if my aunt req
                <p>I am ſure my papa and mamma ſee my faults plain enough.</p>
             </sp>
             <sp>
-               <pb n="6" facs="tcp:029987_0006_0FE3B59BF7B08BC8"/>
+               <pb n="6" facs="unknown:029987_0006_0FE3B59BF7B08BC8"/>
                <speaker>MRS. SMITH.</speaker>
                <p>So much the better for you, my dear.</p>
             </sp>
@@ -208,7 +208,7 @@ mamma were both pleaſed to find me ſo much improved, and ſaid, if my aunt req
                <p>I am very willing, my dear, to <gap reason="illegible" resp="#AELD" extent="3 letters">
                      <desc>•••</desc>
                   </gap>ply with your re<g ref="char:EOLhyphen"/>queſt,
-<pb n="7" facs="tcp:029987_0007_0FE3B5A1017951C0"/>
+<pb n="7" facs="unknown:029987_0007_0FE3B5A1017951C0"/>
 and will write to Mr. Lloyd this evening. I think Miſs Lloyd is about your own age.</p>
             </sp>
             <sp>
@@ -234,7 +234,7 @@ and will write to Mr. Lloyd this evening. I think Miſs Lloyd is about your own 
                <p>Then, madam, I ſhall not fail to be happy.</p>
             </sp>
             <sp>
-               <pb n="8" facs="tcp:029987_0008_0FE3B5A6940BD9E8"/>
+               <pb n="8" facs="unknown:029987_0008_0FE3B5A6940BD9E8"/>
                <speaker>MRS. SMITH.</speaker>
                <p>Amelia, I ſhall leave you to entertain Miſs Laura in my abſence, which will not be long.</p>
                <p>On Mrs. Smith's entering the room, ſhe is ſurpriſed to find Laura in tears!</p>
@@ -260,7 +260,7 @@ and will write to Mr. Lloyd this evening. I think Miſs Lloyd is about your own 
                <p>Indeed, my dear Laura, you are miſtaken; I ſhould think a day very tedious, in which I did not do any work; beſides, you cannot think what pleaſure I find in working with my mamma: you would have thought I was well repaid, had you ſeen how pleaſed my papa was with the firſt ſhirt I finiſhed; he ſaid he ſhould ever look on it with pleaſure, as his dear Amelia's little <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>
-                  <pb n="9" facs="tcp:029987_0009_0FE3B5AB82391B68"/>
+                  <pb n="9" facs="unknown:029987_0009_0FE3B5AB82391B68"/>
 had been employed in making it; and it was ſhewn to all our friends; ſo that I had praiſes in abundance; but the more I was praiſed, the more I loved my mamma.</p>
             </sp>
             <sp>
@@ -290,7 +290,7 @@ had been employed in making it; and it was ſhewn to all our friends; ſo that I
             <sp>
                <speaker>MRS. SMITH.</speaker>
                <p>Amelia, take this book into the parlour; we ſhall ſoon follow you.—My gardener, yeſterday, was at work
-<pb n="10" facs="tcp:029987_0010_0FE3B5AE75315AF8"/>
+<pb n="10" facs="unknown:029987_0010_0FE3B5AE75315AF8"/>
 at this bed; but, by my orders, left it in the ſtate in which you now ſee it. I was in hopes it might afford a uſeful leſſon to Miſs Lloyd, and it gives me pleaſure to find it has ſtruck you juſt as I wiſhed it ſhould. I have known you from your infancy; and with concern per<g ref="char:EOLhyphen"/>ceive, that to this hour your mind has continued uncul<g ref="char:EOLhyphen"/>tivated, as the piece of ground before you. Your exte<g ref="char:EOLhyphen"/>rior form attracts our attention; and you are bleſſed with a large ſhare of vivacity: from ſuch an appearance we have much to expect: but I am ſorry to ſay it, the prevailing qualities of your mind are ſo many moral weeds; and you muſt not wonder if they are ſoon diſ<g ref="char:EOLhyphen"/>covered, and ſeverely cenſured. We are apt to paſs by a hundred beauties unnoticed, if but one ſtriking defect appears, as you have juſt now done. My gardener has taken peculiar care of the ſurrounding beds; obſerve the order in which they lie, and the various flowers that adorn them; all theſe you paſſed by unnoticed, in ob<g ref="char:EOLhyphen"/>ſerve that this uncultivated plat ſpoils the whole. So it is, my dear, with young ladies, however pretty they may think themſelves, if their minds are uncultivated, and unadorned with uſeful knowledge.</p>
             </sp>
             <sp>
@@ -298,7 +298,7 @@ at this bed; but, by my orders, left it in the ſtate in which you now ſee it. 
                <p>Madam, you ſhock me with the picture you have drawn! yet I own, with ſhame, it is too juſt a likeneſs of myſelf. Indeed, I love nothing but play, and abhor working and reading. I wiſh I was like Amelia; but I fear I never ſhall be.</p>
             </sp>
             <sp>
-               <pb n="11" facs="tcp:029987_0011_0FE3B5B3B9ED7BA8"/>
+               <pb n="11" facs="unknown:029987_0011_0FE3B5B3B9ED7BA8"/>
                <speaker>MRS. SMITH.</speaker>
                <p>You muſt not be diſcouraged, if you meet with a few difficulties, which Amelia did not, having been led in the paths of knowledge from her infancy. What ſay you to being of our party to-morrow morning?</p>
             </sp>
@@ -329,7 +329,7 @@ at this bed; but, by my orders, left it in the ſtate in which you now ſee it. 
                <p>Laura goes out, and in about an hour after is heard ſcreaming and crying.</p>
             </sp>
             <sp>
-               <pb n="12" facs="tcp:029987_0012_0FE3B5B70A30DB30"/>
+               <pb n="12" facs="unknown:029987_0012_0FE3B5B70A30DB30"/>
                <speaker>AMELIA.</speaker>
                <p>I am afraid, madam, ſome accident has happened to Laura.</p>
             </sp>
@@ -361,7 +361,7 @@ at this bed; but, by my orders, left it in the ſtate in which you now ſee it. 
             <sp>
                <speaker>LAURA.</speaker>
                <p>It was Rover that did it; he played very prettily for ſome time with me in the pleaſure-ground; but when we came by the fiſh ponds he jumped in: when he came out, he ran and rolled himſelf in the duſt, and then jumped upon me. I was ſo provoked to ſee the naſty condition he made my frock in, that I took up a ſtick,
-<pb n="13" facs="tcp:029987_0013_0FE3B5BDB7A37050"/>
+<pb n="13" facs="unknown:029987_0013_0FE3B5BDB7A37050"/>
 and beat him; upon which he ſeized on my frock, and tore it; I endeavoured to get rid of him, but he ſtill kept his hold. I ran ſcreaming into the kitchen; Molly laughed at me, which ſo provoked me, that I ſtruck her: ſhe then turned me out. I'm ſure none of my papa's ſervants dared to have done ſo.</p>
             </sp>
             <sp>
@@ -389,7 +389,7 @@ and beat him; upon which he ſeized on my frock, and tore it; I endeavoured to g
                <p>Here comes Laura, with a clean frock and a ſmiling face.</p>
             </sp>
             <sp>
-               <pb n="14" facs="tcp:029987_0014_0FE3B5C10420FDD8"/>
+               <pb n="14" facs="unknown:029987_0014_0FE3B5C10420FDD8"/>
                <speaker>LAURA.</speaker>
                <p>I hope, madam, you will forgive me: I am quite aſhamed to think I have been ſo long before I obeyed you commands; nor ſhould I have done it now, had it not been for the kind perſuaſion of Nanny. I told her I never would ſubmit to aſk Molly's pardon. She ſaid, I am ſorry to hear you ſay ſo, Miſs; you had much better do it at firſt, for you muſt at laſt, as my miſtreſs never retracts her word. I replied, I'll fret and cry, and then Mrs. Smith will let me come down into the parlour, leſt I ſhould be ſick. No, Miſs, ſaid ſhe, you are quite miſtaken, if you think to gain any thing by that; for my miſtreſs would order you to have water-gruel, and be put to bed: I told her I could never bear that: then it will be very eaſy for you, Miſs, to aſk Molly to forgive your ſtriking her. She then left me, and re<g ref="char:EOLhyphen"/>turned with Molly, who ſaid, I am come, Miſs Lloyd, to aſk your pardon for being ſo rude as to laugh at you. I ſtarted up, No, Molly, it is I that ought to aſk your pardon for ſtriking you, and I do it ſincerely.</p>
                <p>I ſhall always have an eſteem both for Molly and Nanny for their kindneſs to me; and now, madam, if I obtain your forgiveneſs, I ſhall be quite happy again.</p>
@@ -398,7 +398,7 @@ and beat him; upon which he ſeized on my frock, and tore it; I endeavoured to g
                <speaker>MRS. SMITH.</speaker>
                <p>That you freely have: but I muſt caution you not to give way to your paſſions, as that has been the cauſe of all the mortifications you have met with to-day. I will tell you a little Fable, that I hope you will gain inſtruc<g ref="char:EOLhyphen"/>tion by.</p>
                <p>
-                  <pb n="15" facs="tcp:029987_0015_0FE3B5C6150C2F00"/>
+                  <pb n="15" facs="unknown:029987_0015_0FE3B5C6150C2F00"/>
 A Bear, that was ſtung by a Bee, was ſo enraged by the pain he felt, that he ran, like a mad thing, into the bee garden, and overtur<gap reason="illegible" resp="#AELD" extent="2 letters">
                      <desc>••</desc>
                   </gap> all the hi<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -430,13 +430,13 @@ A Bear, that was ſtung by a Bee, was ſo enraged by the pain he felt, that he r
                   </q>
                </p>
                <p>
-                  <pb n="16" facs="tcp:029987_0016_0FE3B5C9738170A8"/>
+                  <pb n="16" facs="unknown:029987_0016_0FE3B5C9738170A8"/>
 In the afternoon Amelia repeated the following ſtory out of Hume's Hiſtory of England:</p>
                <p>Edward the third, when he retook Calais, after a ſhameful revolt, was ſo incenſed, that he was determined to take exemplary vengeance on the inhabitants, and would not receive the town on any conditions which ſhould confine him in the puniſhment of thoſe offenders. Edward was at laſt perſuaded to more moderation, and inſiſted on ſix of the moſt eminent citizens being ſent to him, to his camp, with the keys of the city, bareheaded, and barefooted, with ropes about their necks; and on theſe conditions he promiſed to ſpare the lives of all the remainder.</p>
                <p>When this intelligence was conveyed to Calais, there was a general conſternation. To ſacrifice ſix of their fellow-citizens to certain deſtruction, when they had all ſignalized their valour in a common cauſe, appeared to them more ſevere than that general puniſhment they were before threatened with; and they were irreſolute in ſo cruel and diſtreſſing a ſituation: at laſt one of the principal inhabitants, called Euſtace de St. Pierre, ſtep<g ref="char:EOLhyphen"/>ped forth, declaring himſelf willing to encounter death, to ſave his friends and companions: animated by his example, another made a like generous offer, and a third and fourth, till the whole number was completed. Theſe ſix brave men, with ropes about their necks, thus appearing like malefactors, laid the keys of the city at Edward's feet, who ordered them to execution.</p>
             </sp>
             <sp>
-               <pb n="17" facs="tcp:029987_0017_0FE3B5CEED802D98"/>
+               <pb n="17" facs="unknown:029987_0017_0FE3B5CEED802D98"/>
                <speaker>LAURA.</speaker>
                <p>Every one muſt deteſt the cruelty of Edward.</p>
             </sp>
@@ -462,7 +462,7 @@ In the afternoon Amelia repeated the following ſtory out of Hume's Hiſtory of 
                <p>The next day Laura addreſſed Mrs. Smith as follows:</p>
             </sp>
             <sp>
-               <pb n="18" facs="tcp:029987_0018_0FE3B5D1DD3CB5F0"/>
+               <pb n="18" facs="unknown:029987_0018_0FE3B5D1DD3CB5F0"/>
                <speaker>LAURA.</speaker>
                <p>Will you permit me, madam, to be of your party this morning.</p>
             </sp>
@@ -472,10 +472,10 @@ In the afternoon Amelia repeated the following ſtory out of Hume's Hiſtory of 
                <stage>The Art of Happineſs. (The World.)</stage>
                <p>A good temper is one of the principal ingredients of happineſs: this, it is ſaid, is born with us, and ſo in a great meaſure it is; yet often-times it may be acquired by art, and always improved by culture: almoſt every object that attracts our notice, has its bright and its dark ſide. He that habituates himſelf to look to the diſpleaſ<g ref="char:EOLhyphen"/>ing ſide, will ſour his diſpoſition, and conſequently im<g ref="char:EOLhyphen"/>pair his happineſs; while he, who conſtantly looks on the bright ſide, inſenſibly meliorates his temper, and, in conſequence, improves his own happineſs, and that of all about him.</p>
                <p>Arachne and Meliſſa are two friends, both women in years, and alike in birth, fortune, education, and ac<g ref="char:EOLhyphen"/>compliſhments. They were originally alike in temper too; but by different management are grown the reverſe of each other. Arachne has accuſtomed herſelf to look on the dark ſide of every object. If you ſhew her a new publication, ſhe ſlightly ſkims over the paſſages that would give her pleaſure, and dwells only on thoſe that fill her with diſlike. Her garden is a very delightful one; but if you take a walk with her in it, ſhe talks of nothing but blights and ſtorms, of ſnails and caterpillars.
-<pb n="19" facs="tcp:029987_0019_0FE34DC95026F2E0"/>
+<pb n="19" facs="unknown:029987_0019_0FE34DC95026F2E0"/>
 If you ſit down with her in the temples to enjoy a beau<g ref="char:EOLhyphen"/>tiful proſpect, ſhe obſerves to you, that there is too much wood, or too little water; that the day is too ſunny, or too gloomy; that it is ſultry or windy; and finiſhes with a long harangue upon the wretchedneſs of our climate. In company ſhe caſts a gloom over all, by giving you the hiſtory of her own bad health, or of ſome melancholy accident that befel one of her daughter's children. Thus ſhe inſenſibly ſinks her own ſpirits, and the ſpirits of all around her, and at laſt diſcovers, ſhe knows not why, that her friends are grave.</p>
                <p>Meliſſa is the reverſe of all this: ſhe is cheerful herſelf, and communicates it to all about her. If any misfortune has befallen her, ſhe conſiders it might have been worſe, and is thankful to Providence for an eſcape. She opens every book with a deſire to be entertained and inſtructed, and, therefore ſeldom miſſes what ſhe looks for. Walk with her, though it be but on a heath or common, and ſhe will diſcover numberleſs beauties, unobſerved before, in the hills, the dales, the broom, the brakes, and the varie<g ref="char:EOLhyphen"/>gated flowers of weeds and poppies. She enjoys every change of weather and of ſeaſon, as bringing ſomething of health or convenience. In converſation, it is a rule with her never to ſtart a ſubject that leads to any thing gloomy or diſagreeable; you, therefore, never hear her repeating her own grievances, or thoſe of her neighbours, or (what is worſt of all) their faults and imperfections. Thus Meliſſa, like the Bee, gathers honey from every weed; while Arachne, like the Spider, ſucks poiſon from the
-<pb n="20" facs="tcp:029987_0020_0FE3B5DAC78E3FF8"/>
+<pb n="20" facs="unknown:029987_0020_0FE3B5DAC78E3FF8"/>
 faireſt flowers: the conſequence is, that of two tempers, once nearly allied, the one is for ever ſour and diſſatisfied, and the other always cheerful.</p>
             </sp>
             <sp>
@@ -500,7 +500,7 @@ faireſt flowers: the conſequence is, that of two tempers, once nearly allied, 
                <p>Auguſtus, who was prone to anger, got the following leſſon from Athenodorus, the philoſopher: That as ſoon as he ſhould feel the firſt emotions of anger, he ſhould repeat deliberately all the letters of the alphabet; for, that anger was eaſily prevented, but not eaſily ſub<g ref="char:EOLhyphen"/>dued. To repreſs anger, it is a good method to turn the injury into a jeſt. Socrates having received a blow on the head, obſerved that it would be well if people knew when to put on a helmet. Another time, being attacked with opprobrious language, he calmly obſerved, that the man was not yet taught to ſpeak reſpectfully.</p>
             </sp>
             <sp>
-               <pb n="21" facs="tcp:029987_0021_0FE3B5E0114D7950"/>
+               <pb n="21" facs="unknown:029987_0021_0FE3B5E0114D7950"/>
                <speaker>MRS. SMITH.</speaker>
                <p>Now, my dear Laura, I hope you can remember what you read in the morning; it was very ſhort.</p>
             </sp>
@@ -525,13 +525,13 @@ faireſt flowers: the conſequence is, that of two tempers, once nearly allied, 
                <speaker>MRS. SMITH.</speaker>
                <p>That does not ſurpriſe me; for the ſpirits tire in con<g ref="char:EOLhyphen"/>tinually purſuing one thing, let it be what it will.</p>
                <p>The ſame method was continued every day. Laura ſoon became quite happy, in finding that the purſuit of
-<pb n="22" facs="tcp:029987_0022_0FE34DD64A141018"/>
+<pb n="22" facs="unknown:029987_0022_0FE34DD64A141018"/>
 uſeful knowledge led to the higher gratifications of her mind, and proved an inexhauſtible ſource of pleaſure and entertainment. Thus the time inſenſibly paſſed away, till near three months had elapſed.</p>
             </sp>
             <trailer>END OF THE FIRST PART.</trailer>
          </div>
          <div n="2" type="part">
-            <pb facs="tcp:029987_0023_0FE3B5E2569806F0"/>
+            <pb facs="unknown:029987_0023_0FE3B5E2569806F0"/>
             <head>PART THE SECOND.</head>
             <p>ONE day Mrs. Smith paid a viſit to Mrs. Murray at Play-Hall. Miſs Murray took the little ladies into another room, to play by themſelves.</p>
             <sp>
@@ -567,7 +567,7 @@ uſeful knowledge led to the higher gratifications of her mind, and proved an in
                <p>I believe I have.</p>
             </sp>
             <sp>
-               <pb n="24" facs="tcp:029987_0024_0FE3B5E7D402D168"/>
+               <pb n="24" facs="unknown:029987_0024_0FE3B5E7D402D168"/>
                <speaker>MISS MURRAY.</speaker>
                <p>Oh they are pictured: here is a Dutchman.</p>
             </sp>
@@ -610,7 +610,7 @@ uſeful knowledge led to the higher gratifications of her mind, and proved an in
             <sp>
                <speaker>AMELIA.</speaker>
                <p>Here is Greenland; the neareſt country to the North
-<pb n="25" facs="tcp:029987_0025_0FE3B5EB9EEFB168"/>
+<pb n="25" facs="unknown:029987_0025_0FE3B5EB9EEFB168"/>
 Pole, that is inhabited: our ſhips go thither for whales, which are ſo valuable for their oil and bone.</p>
             </sp>
             <sp>
@@ -646,7 +646,7 @@ Pole, that is inhabited: our ſhips go thither for whales, which are ſo valuabl
             <sp>
                <speaker>AMELIA.</speaker>
                <p>Here it is; the Spaniards conquered it, to get poſ<g ref="char:EOLhyphen"/>ſeſſion
-<pb n="26" facs="tcp:029987_0026_0FE3B5F0899A2CF8"/>
+<pb n="26" facs="unknown:029987_0026_0FE3B5F0899A2CF8"/>
 of its rich mines of gold and ſilver. Now, Laura, it is your turn.</p>
             </sp>
             <sp>
@@ -676,7 +676,7 @@ of its rich mines of gold and ſilver. Now, Laura, it is your turn.</p>
             <sp>
                <speaker>AMELIA.</speaker>
                <p>A Turk, with his great turban; you ſee their man<g ref="char:EOLhyphen"/>ner of dreſs is different from ours; the men wearing long garments; but we muſt find the country: here is
-<pb n="27" facs="tcp:029987_0027_0FE3B5F5B5030B80"/>
+<pb n="27" facs="unknown:029987_0027_0FE3B5F5B5030B80"/>
 Turkey, which belongs to the Grand Signior. Come, Maſter Murray, I know you are impatient to draw your Engliſhman.</p>
             </sp>
             <sp>
@@ -711,7 +711,7 @@ Turkey, which belongs to the Grand Signior. Come, Maſter Murray, I know you are
             <sp>
                <speaker>MISS MURRAY.</speaker>
                <p>I don't like to leave our play: I hope you will come and ſee us again; and pray bring your cards with you.
-<pb n="28" facs="tcp:029987_0028_0FE3B5FD57D58448"/>
+<pb n="28" facs="unknown:029987_0028_0FE3B5FD57D58448"/>
 As Mrs. Smith was returning home, Amelia thus addreſſed her:</p>
             </sp>
             <sp>
@@ -749,7 +749,7 @@ As Mrs. Smith was returning home, Amelia thus addreſſed her:</p>
                <p>Ring the bell for John to attend us.</p>
             </sp>
             <sp>
-               <pb n="29" facs="tcp:029987_0029_0FE3B602AE01B5C0"/>
+               <pb n="29" facs="unknown:029987_0029_0FE3B602AE01B5C0"/>
                <speaker>LAURA.</speaker>
                <p>How delightful the corn looks in ſhocks! and the people ſcattered up and down gleaning it!</p>
             </sp>
@@ -780,7 +780,7 @@ As Mrs. Smith was returning home, Amelia thus addreſſed her:</p>
             <sp>
                <speaker>MRS. SMITH.</speaker>
                <p>There is no difference at all in our birth: were the infant of a rich man, and the infant of a poor man, to be dreſſed in the ſame manner, and laid on the ſame bed, you would not know the one from the other; and were I to ſay to you, Now, Laura, point me out the child of the poor, I ſhould impoſe a taſk on you, which I am ſure you would be utterly unable to perform;
-<pb n="30" facs="tcp:029987_0030_0FE3B60641CFC2A8"/>
+<pb n="30" facs="unknown:029987_0030_0FE3B60641CFC2A8"/>
 for the gifts of nature are equal. The difference of our perſons and manners ariſes ſolely from education; if any one of the women now in the field had, from her infancy, been brought up with all the delicacy of the fine lady, ſhe would have had the ſame languors, and be as ſoon fatigued.</p>
             </sp>
             <sp>
@@ -808,7 +808,7 @@ for the gifts of nature are equal. The difference of our perſons and manners ar
                <p>So it would, if thoſe miſeries were neceſſarily attend<g ref="char:EOLhyphen"/>ant on riches; but why may not we uſe the ſame means to acquire health and ſpirits?</p>
             </sp>
             <sp>
-               <pb n="31" facs="tcp:029987_0031_0FE3B60B58C24990"/>
+               <pb n="31" facs="unknown:029987_0031_0FE3B60B58C24990"/>
                <speaker>LAURA.</speaker>
                <p>Muſt we, then, labour in the fields!</p>
             </sp>
@@ -826,14 +826,14 @@ for the gifts of nature are equal. The difference of our perſons and manners ar
                <p>He was a Roman citizen; and being a virtuous ho<g ref="char:EOLhyphen"/>neſt man, he was often employed in ſtate affairs. At this time, he was ſent as an Ambaſſador, with others, to Pyrrhus, King of Epirus, then at war with the Ro<g ref="char:EOLhyphen"/>mans, to treat with him for the ranſoming of the pri<g ref="char:EOLhyphen"/>ſoners, who honourably entertained them, and ſent the priſoners back to Rome without any ranſom. Pyrrhus, admiring Fabricius, and underſtanding he was poor, endeavoured to win him over, by making him conſidera<g ref="char:EOLhyphen"/>ble offers, which were rejected by Fabricius with diſ<g ref="char:EOLhyphen"/>dain.</p>
             </sp>
             <sp>
-               <pb n="32" facs="tcp:029987_0032_0FE3B60E16986898"/>
+               <pb n="32" facs="unknown:029987_0032_0FE3B60E16986898"/>
                <speaker>AMELIA.</speaker>
                <p>But if he was poor, how did he ſupport the dignity of an Ambaſſador?</p>
             </sp>
             <sp>
                <speaker>MRS. SMITH.</speaker>
                <p>While he was employed in the ſtate, they provided him with all neceſſaries ſuitable to the ſituation he was in; but I will read you part of his ſpeech to Pyrrhus: "It would be needleſs (ſaid Fabricius) for me to men<g ref="char:EOLhyphen"/>tion the experience I have had in ſtate affairs, as well as in thoſe of a private nature, ſince you have been told theſe things by others. You alſo ſeem to be ſo well in<g ref="char:EOLhyphen"/>formed of my poverty, that there will be no occaſion for me to acquaint you, that I have neither money to put out to intereſt, nor ſlaves to produce me any in<g ref="char:EOLhyphen"/>come; all my wealth conſiſting of a little houſe, and a ſmall field, which yields ſufficient for my ſubſiſtence. Though I am not poſſeſſed of a conſiderable eſtate, I never thought, nor can yet think, my poverty ever did me the leaſt injury. With regard to my fortune, ſo far from repining at it, I look upon myſelf as the happieſt of men, when I compare my condition with that of the rich; and I even feel, on this occaſion, a kind of com<g ref="char:EOLhyphen"/>placency and pride. My little field, though not over fruitful, furniſhes me ſufficiently with all things neceſ<g ref="char:EOLhyphen"/>ſary, provided I do but beſtow the proper culture, and preſerve the produce of it. Do I need any thing more? All food, when ſeaſoned by hunger is agreeable to me. When I am parched with thirſt, it is luxury to quench it; and when I am fatigued, I take the ſweets of ſleep
-<pb n="33" facs="tcp:029987_0033_0FE3B61363A050C8"/>
+<pb n="33" facs="unknown:029987_0033_0FE3B61363A050C8"/>
 with exquiſite pleaſure; I content myſelf with a ſuit that ſhelters me from the inclemency of the weather; and, among the ſeveral moveables, which may be of the like uſe, the meaneſt always ſuits me beſt.</p>
                <p>"It would be unjuſt in me to accuſe fortune, ſince ſhe furniſhes me with all that nature requires. It is, indeed true, that for want of this affluence, I am pre<g ref="char:EOLhyphen"/>vented aſſiſting the neceſſitous, which is the only advan<g ref="char:EOLhyphen"/>tage for which the opulent may juſtly be envied. Even with my little, I aſſiſt where that little can be of uſe, and I do my fellow citizens all the ſervice in my power."</p>
             </sp>
@@ -858,7 +858,7 @@ with exquiſite pleaſure; I content myſelf with a ſuit that ſhelters me from
                <p>Yes, madam, Joe Sage's, the gardener's; it is about three fields off.</p>
             </sp>
             <sp>
-               <pb n="34" facs="tcp:029987_0034_0FE3B61790B84DD0"/>
+               <pb n="34" facs="unknown:029987_0034_0FE3B61790B84DD0"/>
                <speaker>MRS. SMITH.</speaker>
                <p>How far are we from home?</p>
             </sp>
@@ -881,7 +881,7 @@ with exquiſite pleaſure; I content myſelf with a ſuit that ſhelters me from
                <p>Mamma won't let me ſtay; ſhe can hardly ſpeak; bade me come to you to kiſs me, for ſhe cannot. Her hand feels quite cold! What is the matter with her?—They each take him by the hand, and, kiſſing him, burſt into tears afreſh, ſaying, "What ſhall we do without a mamma?"</p>
                <p>Mrs. Smith, feeling herſelf much affected with the diſtreſs of theſe children, ſaid, "Let us go in, and ſee if we can afford them any comfort."</p>
                <p>
-                  <pb n="35" facs="tcp:029987_0035_0FE3B61CD38F62A0"/>
+                  <pb n="35" facs="unknown:029987_0035_0FE3B61CD38F62A0"/>
 Mrs, Smith, on entering, addreſſed the eldeſt child.</p>
             </sp>
             <sp>
@@ -921,7 +921,7 @@ Mrs, Smith, on entering, addreſſed the eldeſt child.</p>
                <p>(running up to her.) Then you ſhall have twenty kiſſes.</p>
             </sp>
             <sp>
-               <pb n="36" facs="tcp:029987_0036_0FE3B61EB5E8A8C0"/>
+               <pb n="36" facs="unknown:029987_0036_0FE3B61EB5E8A8C0"/>
                <speaker>MRS. SMITH.</speaker>
                <p>Will you, Miſs, be ſo obliging as to inform your mamma that a ſtranger wiſhes to ſee her, and afford her all the conſolation in her power.</p>
             </sp>
@@ -951,20 +951,20 @@ Mrs, Smith, on entering, addreſſed the eldeſt child.</p>
                <p>I am overpowered, madam, with your goodneſs; my troubles are nearly at an end; but my children, my children! what will become of them? they have no friend left. (Here a flood of tears interrupted her.)</p>
             </sp>
             <sp>
-               <pb n="37" facs="tcp:029987_0037_0FE3B624B1C2B178"/>
+               <pb n="37" facs="unknown:029987_0037_0FE3B624B1C2B178"/>
                <speaker>MRS. SMITH.</speaker>
                <p>I will be their friend. If your ſtrength will permit, I ſhould be glad to know how you came into this diſtreſs<g ref="char:EOLhyphen"/>ful ſituation.</p>
             </sp>
             <sp>
                <speaker>SICK LADY.</speaker>
                <p>Your kindneſs, madam, demands all the ſatisfaction in my power to give you. My father was a man of large fortune; his name was Brown: I was his only child. My mother died when I was very young. My father ſpared no pains or expence in my education; his love for me was great; and not any young perſon could be happier than I was, till I ſaw Captain Smith, who gained my affections; but my father would not conſent to the union. The Captain perſuaded me to riſk my father's diſpleaſure, and become his, telling me, when once we were married, I ſhould ſoon be received into favour again;—that as I was his only child, he could not do otherwiſe. The moment I forſook my dear father's houſe, all happineſs fled. My father declared he would never ſee me again, and nothing could alter his determination. My huſband, when he found that my father would by no means be reconciled, ſlighted and neglected me, declaring he only married me for my fortune; and though I was young and handſome, his pleaſures were not to be confined, and that he wanted my fortune to purſue them; but, ſince he had loſt his aim, he cared not how ſoon he got rid of me. Ah, madam! you will eaſily conceive what my feelings muſt
-<pb n="38" facs="tcp:029987_0038_0FE3B6290E6EA808"/>
+<pb n="38" facs="unknown:029987_0038_0FE3B6290E6EA808"/>
 be, to hear ſuch a declaration from the man I loved, and had forſaken all for! I ſpent moſt of my time alone: books were my chief amuſement; and the educating of my dear children beguiled many an hour: but the keen reflection of my diſobedience to my dear father, was the bittereſt ingredient in my bitter lot: had I followed his advice, I had ſtill been happy. He knew the cha<g ref="char:EOLhyphen"/>racter of the man I married better than I did, and all he told me has ſince proved true; but I could not be per<g ref="char:EOLhyphen"/>ſuaded to think, that a man, who manifeſted ſuch polite<g ref="char:EOLhyphen"/>neſs, attention, and tenderneſs, could ever alter.</p>
                <p>The laſt letter I wrote to my dear father, for I ſtill love him, and could I ever have thought that he would never more have ſeen his dear Eliza, as he uſed to call me, not any thing would have tempted me from him; but I thought, as moſt young people do, that his love for me would overcome his anger: the laſt letter I wrote to him was on the birth of my dear William, now three years old; but it is impoſſible to deſcribe the anguiſh I felt, when I received his anſwer, which was to this effect:—That he had a daughter, a once dearly beloved daughter, who had torn herſelf away from him; he had found it very hard to forget her; his houſe, his gardens were a deſart without her, and though years had elapſed ſince her de<g ref="char:EOLhyphen"/>parture, he was ſtill ſolitary: he heard, from various perſons, that his once beloved child was miſerable, and that the Captain had avowed that he treated his wife ill, in hopes to haſten the old fellow her father's death, that he might get poſſeſſion of his fortune. As that was the
-<pb n="39" facs="tcp:029987_0039_0FE3B62DE71084D0"/>
+<pb n="39" facs="unknown:029987_0039_0FE3B62DE71084D0"/>
 caſe, he intended to cut off all his expectations; he was upon the point of ſelling his eſtates, and leaving Eng<g ref="char:EOLhyphen"/>land, that he might, in a foreign land, forget all that was dear to him in his native country;—as for her children, he never wiſhed to ſee them; they had a father to pro<g ref="char:EOLhyphen"/>vide for them.—I fainted with the letter in my hand. My cruel huſband entered at that moment, read the let<g ref="char:EOLhyphen"/>ter, and rouſed me by his ſtorming and raving; threat<g ref="char:EOLhyphen"/>ened to leave me, and the children, and flew out of the room. I had no reſource left, but to weep over my poor, forlorn, helpleſs infants. I dreaded his leaving me, becauſe I had no means of providing for myſelf and children, and equally dreaded his return.</p>
                <p>My ſtrength, my dear madam, will not permit me to enter into a detail of the ill treatment I met with, till within a month of his death. One day he came to me, and ſaid, he had been the baſeſt of men to one of the beſt of women, but it would never be in his power to make me amends;—That he muſt leave me for a time, and perhaps ſhould never ſee me more, as he was going on a ſecret and dangerous expedition; but if he ſhould return he would not treat me as he had done;—he was now ſtung to his very ſoul, to think he had driven my father from me. He then ſaid, "My Eliza, take this," (which was a note of 100 l.) it is all that is left of your uncle's legacy: then embracing me and the children, with tears in his eyes, left the room, and I never ſaw him more. The next news I heard was, that on his arrival on the continent, he was taken ill of a fever,
-<pb n="40" facs="tcp:029987_0040_0FE3B6331845A750"/>
+<pb n="40" facs="unknown:029987_0040_0FE3B6331845A750"/>
 and was carried off in a few days. Thus was I left in accumulated diſtreſs: the lodgings I was in were ready furniſhed, and expenſive: at the end of ſix weeks I diſ<g ref="char:EOLhyphen"/>miſſed my ſervant, quitted my lodging, and came to this cottage, where my Eliza was nurſed. (Here ſhe fainted.)</p>
             </sp>
             <sp>
@@ -988,7 +988,7 @@ and was carried off in a few days. Thus was I left in accumulated diſtreſs: th
                <p>The Captain's father was a man of fortune, lived at—, in Suffolk, left his eſtate to his ſon William, his only ſurviving child: he ſold the eſtate, and entered into the army; and it was not long before he ran through the whole, when he thought to retrieve his affairs by my fortune. He ſometimes mentioned a firſt couſin of his father's, whoſe name was Harvey Smith;—that he had ſeen him when he was a child; but whether he was liv<g ref="char:EOLhyphen"/>ing or dead, he could not tell.</p>
             </sp>
             <sp>
-               <pb n="41" facs="tcp:029987_0041_0FE3B6380DCB3060"/>
+               <pb n="41" facs="unknown:029987_0041_0FE3B6380DCB3060"/>
                <speaker>MRS. SMITH.</speaker>
                <p>How aſtoniſhing that I ſhould be led to this ſpot juſt at this juncture, to diſcover the only relations of that late dear and excellent man! Would you believe it, ma<g ref="char:EOLhyphen"/>dam? I am the widow of Mr. Harvey Smith. I heard him often mention his couſin in Suffolk, and that he ne<g ref="char:EOLhyphen"/>ver could learn what was become of his ſon. If you can commit your lovely children to my care, I will pro<g ref="char:EOLhyphen"/>vide for them. I have no children; yours ſhall be mine.</p>
             </sp>
@@ -1006,7 +1006,7 @@ and was carried off in a few days. Thus was I left in accumulated diſtreſs: th
                <p>But Nurſe ſhall come and ſee you as often as ſhe pleaſes.</p>
             </sp>
             <sp>
-               <pb n="42" facs="tcp:029987_0042_0FE3B63BD7FAD310"/>
+               <pb n="42" facs="unknown:029987_0042_0FE3B63BD7FAD310"/>
                <speaker>ELIZA.</speaker>
                <p>I always loved Nurſe, but ſhall now better than ever, ſhe has been ſo very kind to mamma.</p>
             </sp>
@@ -1047,7 +1047,7 @@ and was carried off in a few days. Thus was I left in accumulated diſtreſs: th
                <p>If you pleaſe, madam.</p>
             </sp>
             <sp>
-               <pb n="43" facs="tcp:029987_0043_0FE3B640F8CC34F8"/>
+               <pb n="43" facs="unknown:029987_0043_0FE3B640F8CC34F8"/>
                <speaker>MRS. SMITH.</speaker>
                <p>What ſay you to it, my dear Ann?</p>
             </sp>
@@ -1092,7 +1092,7 @@ and was carried off in a few days. Thus was I left in accumulated diſtreſs: th
                <p>Will you be ſo obliging, madam, as juſt to ſtep into this little room. I wiſh to ſpeak to you alone.—Pray, madam, what muſt I do about the funeral?</p>
             </sp>
             <sp>
-               <pb n="44" facs="tcp:029987_0044_0FE3B64325F51638"/>
+               <pb n="44" facs="unknown:029987_0044_0FE3B64325F51638"/>
                <speaker>MRS. SMITH.</speaker>
                <p>I will give orders about it, and my ſervant ſhall take the charge of it.</p>
             </sp>
@@ -1109,7 +1109,7 @@ and was carried off in a few days. Thus was I left in accumulated diſtreſs: th
                <p>No, madam; the firſt time I ſaw her was when the Captain was at our county town with part of the regi<g ref="char:EOLhyphen"/>ment; we uſed to ſupply them with fruit. Mrs. Smith took a liking to me, and being diſtreſſed for a wet-nurſe, aſked me to take Miſs Eliza. Ah! when I brought the dear little infant home, little did I think her mamma would die at my houſe! Indeed, who ſhould ever have thought ſuch a lady could ever condeſcend to be in two ſuch ſmall rooms! though to be ſure they are neat and clean. When ſhe came, I was quite ſurpriſed to ſee her ſo ill, and offered to go and take lodgings in the town for her, for I was ſure mine were not <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>it for her; but ſhe would not let me, ſaid nobody could nurſe her like me,
-<pb n="45" facs="tcp:029987_0045_0FE3B6486BCD8BF8"/>
+<pb n="45" facs="unknown:029987_0045_0FE3B6486BCD8BF8"/>
 and the ſituation of my houſe would contribute, if any thing could, to reſtore her to health. I was ſurpriſed ſhe did not bring a ſervant with her, but ſhe was of ſuch a ſweet temper, that ſhe was pleaſed with every thing I did for her.</p>
                <p>Here ſhe was interrupted by the return of John, who informed his miſtreſs the coach was at the gate.</p>
                <p>Mrs. Smith took an affectionate leave of the children, promiſing to ſee them the next day.</p>
@@ -1130,7 +1130,7 @@ and the ſituation of my houſe would contribute, if any thing could, to reſtor
             <sp>
                <speaker>AMELIA.</speaker>
                <p>I eſteem the affection of my friends as my greateſt treaſure; at firſt, I own, I felt hurt, and thought my aunt would give us all up for theſe ſtrangers. (I hope, ma<g ref="char:EOLhyphen"/>dam,
-<pb n="46" facs="tcp:029987_0046_0FE3B64CB83E4120"/>
+<pb n="46" facs="unknown:029987_0046_0FE3B64CB83E4120"/>
 you will pardon this ungenerous thought.) A lit<g ref="char:EOLhyphen"/>tle recollection brought right ideas to my mind. I put myſelf in their place, deſtitute of father, mother, or friend, and every ſelfiſh motive vaniſhed. I was then willing they ſhould ſhare in your affections.</p>
             </sp>
             <sp>
@@ -1161,7 +1161,7 @@ you will pardon this ungenerous thought.) A lit<g ref="char:EOLhyphen"/>tle reco
                <p>I do not mean to be jealous: our attention at preſent muſt be confined to them, that we may make them for<g ref="char:EOLhyphen"/>get their loſs.</p>
             </sp>
             <sp>
-               <pb n="47" facs="tcp:029987_0047_0FE3B6519AE33978"/>
+               <pb n="47" facs="unknown:029987_0047_0FE3B6519AE33978"/>
                <speaker>LAURA.</speaker>
                <p>I ſhall ſometimes pleaſe them, and ſometimes teaze them; there is no amuſement without a little of that.</p>
             </sp>
@@ -1181,7 +1181,7 @@ you will pardon this ungenerous thought.) A lit<g ref="char:EOLhyphen"/>tle reco
             <sp>
                <speaker>LAURA.</speaker>
                <p>I quite forgot the piece of work I was ſo anxious to finiſh. How ſurpriſed my papa will be to hear I am fond of working and reading! I am quite delighted with it: for it brings me acquainted with ſo many things, which I knew nothing of before, that I can refer continually to ſomething new to amuſe me: I cannot think how I uſed to yawn through a wet day; but here confinement to the
-<pb n="48" facs="tcp:029987_0048_0FE3B654A62C4EF0"/>
+<pb n="48" facs="unknown:029987_0048_0FE3B654A62C4EF0"/>
 houſe is no burden; for we have always ſomething uſe<g ref="char:EOLhyphen"/>ful to amuſe us.</p>
             </sp>
             <sp>
@@ -1207,10 +1207,10 @@ houſe is no burden; for we have always ſomething uſe<g ref="char:EOLhyphen"/>
             <sp>
                <speaker>AMELIA.</speaker>
                <p>Dionyſius the Elder was a prince of great political and military abilities, and had occaſion for them all, in raiſing himſelf, as he did, from a mean condition to ſo high a rank. After having held the ſovereignty thirty-eight years, he tranſmitted it peaceably to a ſucceſſor of his own election, and had eſtabliſhed his power upon ſuch ſolid foundations, that his ſon, notwithſtanding the ſlenderneſs of his capacity for governing, retained it twelve years after his death; all which could not have been effected without a great fund of merit as to his capa<g ref="char:EOLhyphen"/>city. But what qualities could cover his vices, which rendered him the object of his ſubjects abhorrence? His ambition knew neither law nor limitation; his
-<pb n="49" facs="tcp:029987_0049_0FE3B6599DDA6908"/>
+<pb n="49" facs="unknown:029987_0049_0FE3B6599DDA6908"/>
 cruelty had often no regard to the affinity of blood; his avarice ſpared nothing, not even the moſt ſacred places; and his open and profeſſed impiety only acknowledged the Divinity to inſult him.</p>
                <p>The amazing precautions that Dionyſius thought neceſſary to the ſecurity of his life, ſhews to what anxiety and apprehenſion he was abandoned. He wore under his robe a cuiraſs of braſs. He never harangued the people but from the top of a high tower, and thought proper to make himſelf invulnerable by being inacceſſible. Not daring to confide in any of his friends or relations, his guard was compoſed of ſlaves and ſtrangers. He went abroad as little as poſſible, fear obliging him to condemn himſelf to a kind of im<g ref="char:EOLhyphen"/>priſonment. Theſe extraordinary precautions regarded, without doubt, certain intervals of his reign, when fre<g ref="char:EOLhyphen"/>quent conſpiracies againſt him, rendered him more timid and ſuſpicious than uſual; at other times we have ſeen that he converſed freely enough with the people, and was acceſſible even to familiarity. In thoſe dark days of diſtruſt and fear, he fancied that he ſaw all mankind in arms againſt him. He never went into the chamber of his wives at night, till they had been firſt ſearched with the utmoſt care and circumſpection. His bed was ſurrounded with a very broad and deep trench, with a ſmall draw-bridge over, for the entrance. After having locked and bolted the doors of his apartment, he drew up the bridge, that he might ſleep in ſecurity. Neither his brother, nor even his ſons, could be admitted
-<pb n="50" facs="tcp:029987_0050_0FE3B65E796A5570"/>
+<pb n="50" facs="unknown:029987_0050_0FE3B65E796A5570"/>
 into his chamber, without changing their clothes, and being viſited by the guards.</p>
                <p>In the midſt of his greatneſs, poſſeſſed of riches, and ſurrounded with pleaſures of every kind, during a reign of almoſt forty years, notwithſtanding all his preſents and profuſion, he never was capable of making a ſingle friend. He paſſed his life with none but trembling ſlaves and ſordid flatterers, and never taſted the joy of loving, or being beloved, nor the charms of ſocial truth, and reciprocal confidence. This he owns himſelf.</p>
             </sp>
@@ -1230,7 +1230,7 @@ into his chamber, without changing their clothes, and being viſited by the guar
             <sp>
                <speaker>AMELIA.</speaker>
                <p>He ſaid to Damocles, "Will you taſte, and make proof of my felicity in perſon?" The offer was accepted
-<pb n="51" facs="tcp:029987_0051_0FE3B663867F5868"/>
+<pb n="51" facs="unknown:029987_0051_0FE3B663867F5868"/>
 with joy. Damocles was placed upon a golden bed, covered with carpets of ineſtimable value. The ſide<g ref="char:EOLhyphen"/>boards were loaded with veſſels of gold and ſilver. The moſt beautiful ſlaves, in the moſt ſplendid habits, ſtood around, watching the leaſt ſignal to ſerve him. The moſt exquiſite eſſences and perfumes had not been ſpared. The table was ſpread with proportionate magnificence. Damocles was all joy, and looked upon himſelf as the happieſt man in the world, when, unfor<g ref="char:EOLhyphen"/>tunately caſting up his eyes, he beheld, over his head the point of a ſword, which hung from the roof only by a ſingle horſe-hair. He was immediately ſeized with a cold ſweat; every thing diſappeared in an inſtant; he could ſee nothing but the ſword, nor think of any thing but his danger. In the height of his fear, he deſired permiſſion to retire, and declared if this was happineſs, he would be happy no more.</p>
             </sp>
             <sp>
@@ -1245,7 +1245,7 @@ with joy. Damocles was placed upon a golden bed, covered with carpets of ineſti
                <speaker>LAURA</speaker>
                <p>
                   <hi>(reads.)</hi> Cyrus did not think a man worthy to reign over others, unleſs he was more wiſe and virtuous than thoſe he governed: he was alſo perſuaded that the ſureſt means for a prince to gain the reſpect of his courtiers, and of ſuch as approached his perſon, was to have ſo much regard for them, as never to do, or ſay any thing before
-<pb n="52" facs="tcp:029987_0052_0FE3B667B25E3210"/>
+<pb n="52" facs="unknown:029987_0052_0FE3B667B25E3210"/>
 them, contrary to the rules of decency and good man<g ref="char:EOLhyphen"/>ners. Liberality he looked upon as a virtue truly loyal; nor did he think there was any thing great or valuable in riches, but the pleaſure of diſtributing them to others. "I have prodigious riches (ſays he to his courtiers) I own, and I am glad the world knows it; but you may aſſure yourſelves they are as much yours as mine. For to what end ſhould I heap up wealth? For my own uſe, and to conſume it myſelf? That would be impoſſible, if I deſired it. No: the chief end I aim at, is to have it in my power to reward thoſe who ſerve the public faithfully, and to ſuccour and relieve thoſe that will acquaint me with their wants and neceſſities."</p>
                <p>Croeſus one day repreſented to him, that by continual giving, he would at laſt make himſelf poor; whereas he might have amaſſed infinite treaſures, and have been the richeſt prince in the world. "And to what ſum (replied Cyrus) do you think thoſe treaſures might have amount<g ref="char:EOLhyphen"/>ed?" Croeſus named a certain ſum, which was immenſely great. Cyrus thereupon ordered a little note to be writ to the lords of his court, in which it was ſignified to them that he had occaſion for money. Immediately a much larger ſum was brought to him than Croeſus had mentioned. "Look <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
@@ -1253,7 +1253,7 @@ them, contrary to the rules of decency and good man<g ref="char:EOLhyphen"/>ners
                      <desc>••</desc>
                   </gap>s I keep my riches in, are the hearts of my ſubjects."</p>
                <p>But as much as he eſteemed liberality, he ſtill laid greater ſtreſs upon kindneſs and condeſcenſion, affability
-<pb n="53" facs="tcp:029987_0053_0FE3B66D78A15080"/>
+<pb n="53" facs="unknown:029987_0053_0FE3B66D78A15080"/>
 and humanity, which are qualities ſtill more engaging, and more apt to acquire the affection of a people, which is properly to reign. For a prince to be more generous than others in giving, when he is infinitely more rich than they, has nothing in it ſo ſurpriſing or extraordi<g ref="char:EOLhyphen"/>nary, as to deſcend, in a manner from the throne, and to put himſelf upon a level with his ſubjects. ROLLIN.</p>
             </sp>
             <sp>
@@ -1283,7 +1283,7 @@ and humanity, which are qualities ſtill more engaging, and more apt to acquire 
             <sp>
                <speaker>MRS. SMITH.</speaker>
                <p>That is the common error, to puſh every thing off from ourſelves: but is it of no conſequence to you, Laura, whether you are covetous or generous, conde<g ref="char:EOLhyphen"/>ſcending or proud? whether you render yourſelf con<g ref="char:EOLhyphen"/>temptible or reſpected, beloved or hated? When we read of great characters, we ſhould endeavour to follow
-<pb n="54" facs="tcp:029987_0054_0FE3B67243DE5F28"/>
+<pb n="54" facs="unknown:029987_0054_0FE3B67243DE5F28"/>
 their example as far as our ſituation will admit; for though we cannot come up to them in every thing, yet the leading characteriſtic of virtue is the ſame in every ſituation.</p>
             </sp>
             <sp>
@@ -1312,7 +1312,7 @@ their example as far as our ſituation will admit; for though we cannot come up 
                <p>My dear Ann, you look unwell.</p>
             </sp>
             <sp>
-               <pb n="55" facs="tcp:029987_0055_0FE3B6774DA3E5C8"/>
+               <pb n="55" facs="unknown:029987_0055_0FE3B6774DA3E5C8"/>
                <speaker>ANN.</speaker>
                <p>My head aches, madam.</p>
             </sp>
@@ -1349,7 +1349,7 @@ their example as far as our ſituation will admit; for though we cannot come up 
                <p>But I muſt be in Nurſe's lap.</p>
             </sp>
             <sp>
-               <pb n="56" facs="tcp:029987_0056_0FE3B67B017346E0"/>
+               <pb n="56" facs="unknown:029987_0056_0FE3B67B017346E0"/>
                <speaker>MRS. SMITH.</speaker>
                <p>You ſhall, my dear boy.</p>
             </sp>
@@ -1384,7 +1384,7 @@ their example as far as our ſituation will admit; for though we cannot come up 
             <sp>
                <speaker>NURSE.</speaker>
                <p>Yes, madam; I cannot wiſh for more than I enjoy in one of the beſt of huſbands. Joe and I never had one quarrel ſince we came together: we had, to be
-<pb n="57" facs="tcp:029987_0057_0FE3B67FDF9CF4E0"/>
+<pb n="57" facs="unknown:029987_0057_0FE3B67FDF9CF4E0"/>
 ſure, ſome difficulties to ſtruggle with while the children were young; but now we want for nothing. I little thought I was happier than my miſtreſs. Who could have imagined ſuch a fine gentleman could have uſed his wife ſo ill? I plainly ſee, madam, that gentlefolks are not always the happieſt people.</p>
             </sp>
             <sp>
@@ -1410,7 +1410,7 @@ their example as far as our ſituation will admit; for though we cannot come up 
                <p>What a ſweet place! but I ſhall not enjoy it. Oh my dear mamma! You muſt excuſe me, ladies, for I cannot help talking of my mamma;—ſhe is uppermoſt in my thoughts.</p>
             </sp>
             <sp>
-               <pb n="58" facs="tcp:029987_0058_0FE3B6829CE90FE0"/>
+               <pb n="58" facs="unknown:029987_0058_0FE3B6829CE90FE0"/>
                <speaker>AMELIA.</speaker>
                <p>Excuſe you, my dear! I do more, I ſympathize with you; but after tea we will walk in the garden, which, I hope, will remove your ſiſter Ann's head-ach. Is it any better, my dear Ann?</p>
             </sp>
@@ -1427,7 +1427,7 @@ their example as far as our ſituation will admit; for though we cannot come up 
             <trailer>END OF THE SECOND PART.</trailer>
          </div>
          <div n="3" type="part">
-            <pb facs="tcp:029987_0059_0FE3B688C45E1290"/>
+            <pb facs="unknown:029987_0059_0FE3B688C45E1290"/>
             <head>PART THE THIRD.</head>
             <p>THE journey proved ſo beneficial to the health of the little Smiths, that they were perfectly recovered on their return to Amuſement Hall, which they entered with all the vivacity and ſprightlineſs common to children of their age.</p>
             <p>The next morning Mrs. Smith thus addreſſed the chil<g ref="char:EOLhyphen"/>dren.</p>
@@ -1448,7 +1448,7 @@ their example as far as our ſituation will admit; for though we cannot come up 
                <p>Perhaps you will think you know better than your papa.</p>
             </sp>
             <sp>
-               <pb n="60" facs="tcp:029987_0060_0FE3B68CD157BE38"/>
+               <pb n="60" facs="unknown:029987_0060_0FE3B68CD157BE38"/>
                <speaker>LAURA.</speaker>
                <p>If I do, I ſhall tell him ſo; for I can ſay any thing to him; he never contradicts me: I almoſt long to go home, I ſhall be of ſo much importance.</p>
             </sp>
@@ -1474,7 +1474,7 @@ their example as far as our ſituation will admit; for though we cannot come up 
                <p>So you ſhall; there, ſpell that word, then you ſhall have a picture.</p>
             </sp>
             <sp>
-               <pb n="61" facs="tcp:029987_0061_0FE3B691A69C2BA8"/>
+               <pb n="61" facs="unknown:029987_0061_0FE3B691A69C2BA8"/>
                <speaker>WILLIAM.</speaker>
                <p>Siſter Ann, look what a many pretty pictures here are! horſe, dog, cat, lamb, and a whole heap more.</p>
             </sp>
@@ -1508,7 +1508,7 @@ their example as far as our ſituation will admit; for though we cannot come up 
                <p>It was about thoſe great creatures the Elephants, who are ſaid to be from ſeven to fifteen feet high: but what pleaſed me moſt was, that they have trunks, formed of many rings, ſo that they can turn them about as they pleaſe, can even take up a halfpenny, or a glove, and give it to the owner, as I was informed by a lady, who ſaw it.</p>
             </sp>
             <sp>
-               <pb n="62" facs="tcp:029987_0062_0FE3B69617ACAF28"/>
+               <pb n="62" facs="unknown:029987_0062_0FE3B69617ACAF28"/>
                <speaker>MRS. SMITH.</speaker>
                <p>You have, my dear, very prettily introduced this circumſtance into your ſtory: go on.</p>
             </sp>
@@ -1527,7 +1527,7 @@ their example as far as our ſituation will admit; for though we cannot come up 
             <sp>
                <speaker>MRS. SMITH.</speaker>
                <p>Thank you, my dear, for this account. There are few animals but what are ſenſible of kindneſs received:
-<pb n="63" facs="tcp:029987_0063_0FE3B69B060A3038"/>
+<pb n="63" facs="unknown:029987_0063_0FE3B69B060A3038"/>
 this however, is a remarkable inſtance of ſagacity and gratitude.</p>
             </sp>
             <sp>
@@ -1553,7 +1553,7 @@ this however, is a remarkable inſtance of ſagacity and gratitude.</p>
             <sp>
                <speaker>MRS. SMITH.</speaker>
                <p>True integrity will never liſten to any reaſoning againſt conſcience, nor can it be induced by the proſpect of gain
-<pb n="64" facs="tcp:029987_0064_0FE3B69F19BA6148"/>
+<pb n="64" facs="unknown:029987_0064_0FE3B69F19BA6148"/>
 to take advantage of the ignorance of any, but will ra<g ref="char:EOLhyphen"/>ther aſſiſt them to obtain that information, the want of which evidently leads to miſtakes prejudicial to their intereſt. This little ſtory inſtructs us alſo to be guided by principles of the ſtricteſt integrity, in thoſe parts of our conduct, which are not open to the view of our fel<g ref="char:EOLhyphen"/>low creatures, and never to commit an act of injuſtice, becauſe it appears to us impoſſible to be detected.</p>
                <p>I think, Eliza, your ſubject is Natural Hiſtory.</p>
             </sp>
@@ -1570,7 +1570,7 @@ to take advantage of the ignorance of any, but will ra<g ref="char:EOLhyphen"/>t
                <p>Undoubtedly; I wonder I ſhould forget that; and cotton is ſometimes mixed with wool, ſometimes with ſilk, and even gold itſelf.</p>
             </sp>
             <sp>
-               <pb n="65" facs="tcp:029987_0065_0FE3B6A4DF600350"/>
+               <pb n="65" facs="unknown:029987_0065_0FE3B6A4DF600350"/>
                <speaker>LAURA.</speaker>
                <p>Amelia ſays ſhe has written a pretty ſtory out of Rol<g ref="char:EOLhyphen"/>lin; if ſhe has your permiſſion, madam, ſhe will read it to us.</p>
             </sp>
@@ -1585,7 +1585,7 @@ to take advantage of the ignorance of any, but will ra<g ref="char:EOLhyphen"/>t
                <p>Accordingly he refuſed to pay them the ordinary tribute, and to ſend them the number of troops he was obliged to furniſh in time of war.</p>
                <p>This highly embarraſſed Cyaxares (who was uncle to Cyrus): at this juncture he was afraid of bringing new enemies upon his hands, if he undertook to compel the Armenians to execute their treaty; but Cyrus, having informed himſelf exactly of the ſtrength and ſituation of the country, undertook the affair. The important point was to keep his deſign ſecret, without which he was not likely to ſucceed: he therefore appointed a great hunt<g ref="char:EOLhyphen"/>ing match on that ſide of the country; for it was his cuſ<g ref="char:EOLhyphen"/>tom to ride out that way, and frequently hunt with the king's ſon, and the young noblemen of Armenia.</p>
                <p>
-                  <pb n="66" facs="tcp:029987_0066_0FE3B6AAAEF57818"/>
+                  <pb n="66" facs="unknown:029987_0066_0FE3B6AAAEF57818"/>
 On the day appointed he ſet out with a numerous retinue. The troops followed at a diſtance, and were not to appear till a ſignal was given. After ſome days hunting, when they were come pretty near the palace where the court reſided, Cyrus communicated his de<g ref="char:EOLhyphen"/>ſign to his officers, and ſent Chryſanthes with a detach<g ref="char:EOLhyphen"/>ment, ordering them to make themſelves maſters of a certain ſteep eminence, where he knew the king uſed to retire, in caſe of an alarm, with his family and trea<g ref="char:EOLhyphen"/>ſure.</p>
             </sp>
             <sp>
@@ -1603,17 +1603,17 @@ On the day appointed he ſet out with a numerous retinue. The troops followed at
             <sp>
                <speaker>AMELIA.</speaker>
                <p>This being done, he ſends a herald to the king of Armenia, to ſummon him to perform the treaty, and in the mean time ordered his troops to advance. Never was court in greater ſurpriſe and perplexity. The king was conſcious of the wrong he had done, and was not in a condition to ſupport it; however, he did what he could to aſſemble his forces together from all quarters,
-<pb n="67" facs="tcp:029987_0067_0FE3B6AFD361A798"/>
+<pb n="67" facs="unknown:029987_0067_0FE3B6AFD361A798"/>
 and in the mean time diſpatched his youngeſt ſon, called Sabaris, into the mountains, with his wives, his daughters, and whatever was moſt precious and valuable; but when he was informed by his ſcouts, that Cyrus was coming upon his heels, he entirely loſt all courage, and all thoughts of making a defence. The Armenians, following his example, ran away, every one where he could, to ſecure what was deareſt to him.</p>
                <p>Cyrus, ſeeing the country covered with people, that were endeavouring to make their eſcape, ſent them word that no harm ſhould be done them, if they ſtaid in their houſes; but that as many as were taken running away ſhould be treated as enemies. This made them all re<g ref="char:EOLhyphen"/>tire to their habitations, excepting a few that followed the king.</p>
                <p>On the other hand, they that were conducting the princeſſes to the mountains fell into the ambuſh Chry<g ref="char:EOLhyphen"/>ſanthes had laid for them, and were moſt of them taken priſoners. The queen, the king's ſon, his daughters, his eldeſt ſon's wife, and his treaſures, all fell into the hands of the Perſians.</p>
                <p>The king, hearing this melancholy news, and not knowing what courſe to take, retired to a little eminence where he was preſently inveſted by the Perſian army, and obliged to ſurrender. Cyrus ordered him, with all his family, to be brought into the midſt of the army. At that very inſtant arrived Tigranes, the king's eldeſt
-<pb n="68" facs="tcp:029987_0068_0FE3B6B45A925670"/>
+<pb n="68" facs="unknown:029987_0068_0FE3B6B45A925670"/>
 ſon, who was juſt returned from a journey. At ſo moving a ſpectacle he could not forbear weeping. Cy<g ref="char:EOLhyphen"/>rus, addreſſing himſelf to him, ſaid, <q>Prince, you are come very ſeaſonably to be preſent at the trial of your father.</q> And immediately he aſſembled the captains of the Perſians and Medes, and called in alſo the great men of Armenia; nor did he exclude the ladies from this aſſembly, who were in their chariots, but gave them full liberty to hear all that paſſed.</p>
                <p>When all was ready, and Cyrus had commanded ſilence, he began with requiring of the king, that in all the queſtions he was going to propoſe to him, he would anſwer ſincerely, becauſe nothing could be leſs worthy a perſon of his rank than to uſe diſſimulation or falſhood.</p>
                <p>The king promiſed he would. Then Cyrus aſked him, but at different times, propoſing each article ſepa<g ref="char:EOLhyphen"/>rately, and in order, Whether it was not true, that he had made war againſt Aſtyages, king of the Medes, his grandfather? Whether he had not been overcome in that war, and, in conſequence of his defeat, had concluded a treaty, by which he was obliged to pay a certain tri<g ref="char:EOLhyphen"/>bute, to furniſh a certain number of troops, and not to keep any fortified place in his country? It was impoſſible for the king to deny any of theſe facts, which were all public and notorious. <q>For what reaſon, then (con<g ref="char:EOLhyphen"/>tinued Cyrus) have you violated the treaty in every article?</q> 
                   <q>For no other (replied the king) than becauſe I thought it a glorious thing to ſhake off the
-<pb n="69" facs="tcp:029987_0069_0FE3B6B948DB26A0"/>
+<pb n="69" facs="unknown:029987_0069_0FE3B6B948DB26A0"/>
 yoke, to live free, and to leave my children in the ſame condition.</q>
                </p>
             </sp>
@@ -1633,7 +1633,7 @@ yoke, to live free, and to leave my children in the ſame condition.</q>
                   <q>Though I ſhould paſs ſentence upon myſelf (replied the king) I muſt de<g ref="char:EOLhyphen"/>clare the truth! I would put him to death.</q> At theſe words Tigranes tore his hair from his head, and rent his garments: the women burſt into lamentations and outcries, as if ſentence had been actually paſſed upon him.</p>
             </sp>
             <sp>
-               <pb n="70" facs="tcp:029987_0070_0FE3B6BCD054E0B0"/>
+               <pb n="70" facs="unknown:029987_0070_0FE3B6BCD054E0B0"/>
                <speaker>MRS. SMITH.</speaker>
                <p>Now, my dear Laura, you ſee how people may be drawn away by ſpecious notions of honour; but when their actions are painted in true colours, they are forced to condemn themſelves; therefore, in every important concern we undertake, we ſhould examine it ourſelves in every point of view.</p>
                <p>If the king of Armenia had done ſo, and acted upon his convictions he would not have been brought into this dreadful ſituation.</p>
@@ -1647,7 +1647,7 @@ yoke, to live free, and to leave my children in the ſame condition.</q>
                <p>Amelia, proceed.</p>
                <p>Cyrus having again commanded ſilence, Tigranes addreſſed himſelf to the prince to this effect: <q>Great prince, can you think it conſiſtent with your wiſdom to put my father to death, even againſt your own in<g ref="char:EOLhyphen"/>tereſt?</q> "How againſt my intureſt?" (replied Cyrus.) "Becauſe he was never ſo capable of doing you ſervice." <q>How do you make that appear? do the faults we com<g ref="char:EOLhyphen"/>mit enhance our merit, and give us a new title to con<g ref="char:EOLhyphen"/>ſideration and favour?</q> 
                   <q>They certainly do, provided they ſerve to make us wiſer. For wiſdom is of ineſ<g ref="char:EOLhyphen"/>timable value. Are riches, courage, or addreſs, to be compared to it? Now it is evident that this ſingle day's experience has infinitely improved my father's wiſdom. He knows how dear the violation of his
-<pb n="71" facs="tcp:029987_0071_0FE3B6C1B3490358"/>
+<pb n="71" facs="unknown:029987_0071_0FE3B6C1B3490358"/>
 word has coſt him. He has proved and felt how much you are ſuperior to him in all reſpects. He has not been able to ſucceed in any of his deſigns? but you have happily accompliſhed all yours: and with that expedition and ſecrecy that he has found himſelf ſur<g ref="char:EOLhyphen"/>rounded, and taken, before he expected to be attack<g ref="char:EOLhyphen"/>ed; and the very place of his retreat has ſerved only to enſnare him.</q> 
                   <q>But your father (replied Cyrus) has yet undergone no ſufferings that can have taught him wiſdom.</q>
                </p>
@@ -1657,13 +1657,13 @@ word has coſt him. He has proved and felt how much you are ſuperior to him in 
                <p>
                   <q>Well, then (replied Cyrus, turning to the king) if I ſhould yield to your ſon's intreaties, with what number of men, and what ſum of money, will you aſſiſt us in the war againſt the Babylonians?</q> 
                   <q>My troops and treaſures (ſays the Armenian king) are no longer mine—they are entirely yours. I can raiſe
-<pb n="72" facs="tcp:029987_0072_0FE3B6C46D8F0660"/>
+<pb n="72" facs="unknown:029987_0072_0FE3B6C46D8F0660"/>
 forty thouſand foot, and eight thouſand horſe; and as to money, I have about three thouſand talents; all theſe are wholly at your diſpoſal.</q>
                </p>
                <p>Cyrus accepted half the number of troops, and left the king the other half, for the defence of the country againſt the Chaldeans, with whom he was at war. The annual tribute which was due to the Medes he doubled, and, inſtead of fifty talents, exacted a hundred, and bor<g ref="char:EOLhyphen"/>rowed the like ſum over and above, in his own name. <q>But what would you give me (added Cyrus) for the ranſom of your wives?</q> "All I have in the world" (anſwered the king). "And for your children?" "The ſame thing." <q>From this time you are indebted to me the double of all your poſſeſſions.</q> 
                   <q>And you, Tigranes, at what price would you redeem the liberty of your lady?</q> Now he had lately mar<g ref="char:EOLhyphen"/>ried her, and was paſſionately fond of her. "At the price (ſays he) of a thouſand lives, if I had them!"</p>
                <p>Cyrus then conducted them all to his tent, and enter<g ref="char:EOLhyphen"/>tained them at ſupper. It is eaſy to imagine what tranſ<g ref="char:EOLhyphen"/>ports of joy there muſt have been upon this occaſion. Cyrus, before they parted, embraced them all, in token of a perfect reconciliation. This done, they got into their chariots, with their wives, and went home full of gratitude and admiration. Nothing but Cyrus was men<g ref="char:EOLhyphen"/>tioned the whole way; ſome extolling his wiſdom, others his valour; ſome admiring the ſweetneſs of his temper, others praiſing the beauty of his perſon, and the majeſty
-<pb n="73" facs="tcp:029987_0073_0FE3B6CA2A519A58"/>
+<pb n="73" facs="unknown:029987_0073_0FE3B6CA2A519A58"/>
 of his mien. <q>And you (ſays Tigranes, addreſſing himſelf to his lady) what do you think of Cyru's aſ<g ref="char:EOLhyphen"/>pect and deportment?</q> 
                   <q>I do not know (replied the lady); I did not obſerve him.</q> 
                   <q>Upon what object, then, did you fix your eyes?</q> 
@@ -1690,7 +1690,7 @@ of his mien. <q>And you (ſays Tigranes, addreſſing himſelf to his lady) what
             <sp>
                <speaker>ELIZA.</speaker>
                <p>Her name was Lee: her papa was lieutenant in our regiment. She loſt her mamma when ſhe was very young,
-<pb n="74" facs="tcp:029987_0074_0FE3B6CD59037140"/>
+<pb n="74" facs="unknown:029987_0074_0FE3B6CD59037140"/>
 for which reaſon ſhe was almoſt conſtantly with us, my mamma being very fond of her. About two years ago her papa died, and left her quite deſtitute. My dear mamma wept over her, regretting that it was not in her power to provide for her; but a diſtant relation of her mamma's, who was a mantua-maker, took her, intend<g ref="char:EOLhyphen"/>ing to bring her up to her own buſineſs. My mamma ſent us one day to ſee her; her couſin ſaid ſhe was a proud little thing; ſhe had only aſked her to ſweep up the hearth, and truly Miſs had refuſed, telling her ſhe had done it before ſhe came, and might now, for ſhe was not uſed to do ſuch things; but added, I hit her a good ſlap, and brought down her pride.</p>
             </sp>
             <sp>
@@ -1710,7 +1710,7 @@ for which reaſon ſhe was almoſt conſtantly with us, my mamma being very fond
                <p>Would you ſcruple to beg of her to fetch your cap out of ſuch a drawer?</p>
             </sp>
             <sp>
-               <pb n="75" facs="tcp:029987_0075_0FE3B6D23A19B010"/>
+               <pb n="75" facs="unknown:029987_0075_0FE3B6D23A19B010"/>
                <speaker>LAURA.</speaker>
                <p>Certainly not.</p>
             </sp>
@@ -1730,7 +1730,7 @@ for which reaſon ſhe was almoſt conſtantly with us, my mamma being very fond
                <speaker>LAURA.</speaker>
                <p>I think ſhe ought to conſider her poverty, and be thankful ſhe was not aſked to do any thing worſe; and if ſhe would not do that willingly, I think ſhe ought to be made.</p>
                <p>Now, Laura, draw a compariſon between yourſelf and Miſs Lee's couſin: before we condemn the conduct of others, we ought to put ourſelves in their place. It would be as much below the dignity of Lady Mary to fetch Miſs Lloyd's cap, as for Miſs Lee to ſweep her couſin's hearth, though it would be the duty of each to ſubmit to their benefactors. Miſs Lee's couſin aſked her to do only what ſhe herſelf was accuſtomed to do, and therefore thought it pride in her to refuſe. I own there was want of feeling in beginning ſo haſtily: and ſhe for a moment put herſelf in Miſs Lee's ſituation, ſhe would have adopted a milder way of urging her point. My dear Laura's falling into the ſame error, is from the
-<pb n="76" facs="tcp:029987_0076_0FE3B6D490E05000"/>
+<pb n="76" facs="unknown:029987_0076_0FE3B6D490E05000"/>
 ſame cauſe, not entering into the feelings of others. Though your father is rich, yet you have been taught that you have feet to carry you to your drawers, and hands to take out what you want; while Lady Mary has a ſervant ſtanding behind her all the time ſhe is dreſſing, to fetch and carry every thing ſhe wants. If you ever do any perſon a kindneſs, always do it as if you were the moſt obliged; there is more in the manner of beſtowing a favour, than in the favour itſelf; and, by removing every thing that gives pain, we imperceptibly bring peo<g ref="char:EOLhyphen"/>ple into our own ideas of things. Amelia, ſhould you have treated Lady Mary the ſame? You are ſilent; don't be aſhamed to own the truth. I endeavour to fathom your hearts out of love to you; you have much to learn; but what will be of the moſt ſervice to you is to know yourſelves.</p>
                <p>I have juſt recollected the conduct of a prin<gap reason="illegible" resp="#AELD" extent="2 letters">
                      <desc>••</desc>
@@ -1739,7 +1739,7 @@ for which reaſon ſhe was almoſt conſtantly with us, my mamma being very fond
                      <desc>〈◊〉</desc>
                   </gap> our own nation, which will not be unſuitable on the preſent occaſion:</p>
                <p>The Prince of Wales, commonly called the Black Prince (from the colour of his armour) who diſtinguiſhed himſelf by his conduct and bravery in the battle of Poic<g ref="char:EOLhyphen"/>tiers, was not leſs admired, after the victory, for his modeſt and generous behaviour to his priſoner King John. The evening after the battle, the Prince refuſed to ſit down with the King at ſupper; but ſtanding behind his chair, entertained him with his diſcourſe. As the king's thoughts were wholly employed about his preſent
-<pb n="77" facs="tcp:029987_0077_0FE3B6D9DA5E80E8"/>
+<pb n="77" facs="unknown:029987_0077_0FE3B6D9DA5E80E8"/>
 misfortune, the Prince ſaid to him, in a modeſt and un<g ref="char:EOLhyphen"/>affected manner, "That his Majeſty had one great rea<g ref="char:EOLhyphen"/>ſon to be comforted, which was, that the battle was not loſt by his fault; that the Engliſh, to their coſt, had experienced him to be the braveſt of princes, and that God alone had diſpoſed of the victory; and (continued he) if fortune has been your adverſary, you may, at leaſt, reſt ſecure, that an inviolable regard ſhall be pre<g ref="char:EOLhyphen"/>ſerved for your perſon; and that you ſhall experience in me a very reſpectful relation, if I may glory in that title."</p>
                <p>The king upon this, recovering himſelf, turned to the Prince, and ſaid, with an air of ſatisfaction, "That ſince it was his deſtiny to be vanquiſhed, and taken, in an action wherein he had done nothing unworthy of his character, he found great comfort in falling into the hands of the moſt valiant and generous Prince alive."</p>
                <p>It is ſaid that when King Edward, father to the Prince, received the news of the battle, he declared, that his ſatisfaction at ſo glorious a victory was not com<g ref="char:EOLhyphen"/>parable to what he felt from the generous behaviour of his ſon.</p>
@@ -1751,7 +1751,7 @@ misfortune, the Prince ſaid to him, in a modeſt and un<g ref="char:EOLhyphen"/
             <sp>
                <speaker>ELIZA.</speaker>
                <p>I have often thought of a converſation I heard be<g ref="char:EOLhyphen"/>tween my papa and ſome officers; they agreed that ſtra<g ref="char:EOLhyphen"/>tagems
-<pb n="78" facs="tcp:029987_0078_0FE3B6DDE25F2DD8"/>
+<pb n="78" facs="unknown:029987_0078_0FE3B6DDE25F2DD8"/>
 in war were neceſſary, and gave ſeveral examples<g ref="char:punc">▪</g> they then went on to the ſubject of treachery; but my mamma ſent me out of the room, and ſo prevented me from hearing their opinion. This was a ſad diſappoint<g ref="char:EOLhyphen"/>ment. Pray, madam, is it lawful, by treachery, to take advantage of an enemy?</p>
             </sp>
             <sp>
@@ -1770,7 +1770,7 @@ in war were neceſſary, and gave ſeveral examples<g ref="char:punc">▪</g> th
                <p>The king was ſo ſtruck with admiration, that he is reported to have ſaid: "Fabricius is a perſon of ſuch virtue, that it is more difficult to divert him from the paths of honour, than the ſun from his courſe."</p>
             </sp>
             <sp>
-               <pb n="79" facs="tcp:029987_0079_0FE3B6E2A7566770"/>
+               <pb n="79" facs="unknown:029987_0079_0FE3B6E2A7566770"/>
                <speaker>AMELIA.</speaker>
                <p>I think it is a great doubt whether Pyrrhus would have been as generous to him.</p>
             </sp>
@@ -1805,7 +1805,7 @@ in war were neceſſary, and gave ſeveral examples<g ref="char:punc">▪</g> th
                <p>You will enjoy that pleaſure alſo, as your papa has conſented to accompany Mr. and Mrs. Denew in their viſit to Bath for the winter, with their whole family.</p>
             </sp>
             <sp>
-               <pb n="80" facs="tcp:029987_0080_0FE3B6E6422C88A8"/>
+               <pb n="80" facs="unknown:029987_0080_0FE3B6E6422C88A8"/>
                <speaker>LAURA.</speaker>
                <p>I am quite delighted that my papa is to be with us!</p>
             </sp>
@@ -1815,7 +1815,7 @@ in war were neceſſary, and gave ſeveral examples<g ref="char:punc">▪</g> th
             </sp>
          </div>
          <div n="4" type="part">
-            <pb facs="tcp:029987_0081_0FE3B6EB4C92DF40"/>
+            <pb facs="unknown:029987_0081_0FE3B6EB4C92DF40"/>
             <head>PART THE FOURTH.</head>
             <p>THE next morning an affectionate parting took place.</p>
             <p>They were no ſooner gone than Eliza gave vent to her feelings.</p>
@@ -1844,7 +1844,7 @@ in war were neceſſary, and gave ſeveral examples<g ref="char:punc">▪</g> th
                <p>Mamma, John is going to ride your horſe; may I go before him?</p>
             </sp>
             <sp>
-               <pb n="82" facs="tcp:029987_0082_0FE3B6ED4BF56E90"/>
+               <pb n="82" facs="unknown:029987_0082_0FE3B6ED4BF56E90"/>
                <speaker>MRS. SMITH.</speaker>
                <p>Yes, you may; and tell John I ſhall want the carriage in the afternoon.</p>
             </sp>
@@ -1887,7 +1887,7 @@ in war were neceſſary, and gave ſeveral examples<g ref="char:punc">▪</g> th
                <l>Good, amiable, ſincere, and free,</l>
                <l>Her name was Generoſity.</l>
                <l>
-                  <pb facs="tcp:029987_0083_0FE3B6F2A36C2550"/>
+                  <pb facs="unknown:029987_0083_0FE3B6F2A36C2550"/>
 'T was her's the largeſs to beſtow,</l>
                <l>On rich and poor, on friend and foe.</l>
                <l>Her doors to all were open'd wide,</l>
@@ -1928,7 +1928,7 @@ in war were neceſſary, and gave ſeveral examples<g ref="char:punc">▪</g> th
                <l>Nor wiſhes to be free from Care.</l>
             </lg>
             <sp>
-               <pb facs="tcp:029987_0084_0FE3B6F5392F2900"/>
+               <pb facs="unknown:029987_0084_0FE3B6F5392F2900"/>
                <speaker>MRS. SMITH.</speaker>
                <p>Do you, my dear, underſtand the allegory?</p>
             </sp>
@@ -1943,7 +1943,7 @@ in war were neceſſary, and gave ſeveral examples<g ref="char:punc">▪</g> th
                <p>Mr. Carbonnel continued ſome days in a ſtate of inſen<g ref="char:EOLhyphen"/>ſibility. Mrs. Smith going into the room one day, he ſtarted: "What! is it my daughter?" recovering him<g ref="char:EOLhyphen"/>ſelf, "O no! madam, I aſk your pardon; where am I?"</p>
             </sp>
             <sp>
-               <pb n="85" facs="tcp:029987_0085_0FE3B6FA9C8C8C48"/>
+               <pb n="85" facs="unknown:029987_0085_0FE3B6FA9C8C8C48"/>
                <speaker>MRS. SMITH.</speaker>
                <p>Be compoſed, Sir: you are with a friend, who will do every thing in her power to accommodate you; but I will go, Sir, and ſend your ſervant.</p>
                <p>Mr. Carbonnel, on his ſervant's entering, ſaid, "Thomas, how came I into this ſituation? and whoſe houſe am I in?"</p>
@@ -1972,7 +1972,7 @@ in war were neceſſary, and gave ſeveral examples<g ref="char:punc">▪</g> th
             <sp>
                <speaker>THOMAS.</speaker>
                <p>He talks quite wandering, madam. I fear his head is not right: I hope he will recover. He is one of the
-<pb n="86" facs="tcp:029987_0086_0FE3B6FE9FCCEA38"/>
+<pb n="86" facs="unknown:029987_0086_0FE3B6FE9FCCEA38"/>
 beſt of maſters. He is very rich, and makes good uſe of his riches:—I never knew any place that he went to, but what he did ſome good:—he does not wait to be ap<g ref="char:EOLhyphen"/>plied to, but ſeeks out the diſtreſſed:—I ſhould keep you a whole day, madam, were I to relate to you all I know. (Turning his head to a window) Oh! Maſter Smith is climbing a tree in the orchard?</p>
                <p>Away he flew; but, before he got there, poor Wil<g ref="char:EOLhyphen"/>liam had fallen to the ground, and lay ſcreaming terribly. Thomas picked him up, and brought him in.</p>
             </sp>
@@ -2005,7 +2005,7 @@ beſt of maſters. He is very rich, and makes good uſe of his riches:—I never
                <p>He told me not to do it: for if I did I ſhould be ſure to fall.</p>
             </sp>
             <sp>
-               <pb n="87" facs="tcp:029987_0087_0FE3B703816792C8"/>
+               <pb n="87" facs="unknown:029987_0087_0FE3B703816792C8"/>
                <speaker>MRS. SMITH.</speaker>
                <p>Then you are a very naughty boy not to mind what is ſaid to you. You may go to Nanny to have your arm rubbed with brandy: I ſee it is bruiſed a little; but I do not wiſh to have any thing to do with naughty children.</p>
                <stage>(He goes away ſobbing and crying.)</stage>
@@ -2044,7 +2044,7 @@ beſt of maſters. He is very rich, and makes good uſe of his riches:—I never
                <p>Becauſe I aſked her to let me come, and ſhe ſaid, By no means, till you were better.</p>
             </sp>
             <sp>
-               <pb n="88" facs="tcp:029987_0088_0FE3B7062C9E2268"/>
+               <pb n="88" facs="unknown:029987_0088_0FE3B7062C9E2268"/>
                <speaker>MR. CARBONNEL.</speaker>
                <p>I think I ſhall be angry with your mamma for at<g ref="char:EOLhyphen"/>tempting to deprive me of ſo great a pleaſure.</p>
                <p>William immediately got off the bed, and was march<g ref="char:EOLhyphen"/>ing away in a pet, ſaying, "Then I won't let her come to ſee you; for nobody ſhall be angry with my mamma."</p>
@@ -2078,7 +2078,7 @@ beſt of maſters. He is very rich, and makes good uſe of his riches:—I never
                <speaker>MR. CARBONNEL.</speaker>
                <p>I ſhall be happy, madam, to ſee them.</p>
                <p>Mrs. Smith, on introducing them, obſerved Mr. Car<g ref="char:EOLhyphen"/>bonnel
-<pb n="89" facs="tcp:029987_0089_0FE3B70B30DEA2A8"/>
+<pb n="89" facs="unknown:029987_0089_0FE3B70B30DEA2A8"/>
 to be particularly penſive, and fetch a deep ſigh, when he looked on Eliza.</p>
                <p>The children being withdrawn, he thus addreſſed Mrs. Smith.</p>
             </sp>
@@ -2108,7 +2108,7 @@ to be particularly penſive, and fetch a deep ſigh, when he looked on Eliza.</p
                <speaker>ELIZA.</speaker>
                <p>Yes, madam:</p>
                <p>
-                  <pb n="90" facs="tcp:029987_0090_0FE3B70E3849BE88"/>
+                  <pb n="90" facs="unknown:029987_0090_0FE3B70E3849BE88"/>
 Alcibiades was a young nobleman, who was continu<g ref="char:EOLhyphen"/>ally boaſting of his wealth, and the great eſtates in his poſſeſſion. He was pupil to Socrates, who one day car<g ref="char:EOLhyphen"/>ried him to a geographical map, and aſked him to find Attica. It was ſo ſmall it could ſcarce be diſcerned upon that draught; he, however, found it with difficulty; but, upon being deſired to point out his own eſtate there: "It is too ſmall," ſays he, "to be diſtinguiſhed in ſuch a narrow compaſs." "See then," replied Socrates, "how much you are affected about an imperceptible point of land."</p>
             </sp>
             <stage>(ROLLIN.)</stage>
@@ -2135,7 +2135,7 @@ Alcibiades was a young nobleman, who was continu<g ref="char:EOLhyphen"/>ally bo
             <sp>
                <speaker>MR. CARBONNEL.</speaker>
                <p>Indeed, madam, the ſubject is too big for the human underſtanding to graſp. If we confine our views to the ſolar ſyſtem, of which we form a part, and only contem<g ref="char:EOLhyphen"/>plate the magnitude of the planets, their reſpective diſ<g ref="char:EOLhyphen"/>tances, and the orbits in which they move, the globe
-<pb n="91" facs="tcp:029987_0091_0FE3B71327ACB148"/>
+<pb n="91" facs="unknown:029987_0091_0FE3B71327ACB148"/>
 that we inhabit dwindles into a point; but if we extend our ideas to the fixed ſtars, and conſider each of them as a diſtinct ſun, the centre of a ſyſtem like our own, our world ſinks into nothing; and as for the poſſeſſions of the greateſt monarch on earth, they are but as a mere atom, loſt in the abyſs of bodies, and the boundleſs dimenſions of ſpace. What, then, has man to boaſt of? But I will not not detain the ladies. Miſs Ann will favour us with her ſtory.</p>
             </sp>
             <sp>
@@ -2147,7 +2147,7 @@ that we inhabit dwindles into a point; but if we extend our ideas to the fixed �
             <sp>
                <speaker>ELIZA.</speaker>
                <p>I think the Athenians muſt be quite aſhamed. I
-<pb n="92" facs="tcp:029987_0092_0FE3B716E8DDC2F0"/>
+<pb n="92" facs="unknown:029987_0092_0FE3B716E8DDC2F0"/>
 hope, madam, we ſhall imbibe the ſpirit of the Lacede<g ref="char:EOLhyphen"/>monians, and always honour the aged.</p>
             </sp>
             <sp>
@@ -2175,7 +2175,7 @@ hope, madam, we ſhall imbibe the ſpirit of the Lacede<g ref="char:EOLhyphen"/>
                <p>It is a pleaſure to ſee children early imbibe ſentiments of regard for the poor.</p>
             </sp>
             <sp>
-               <pb n="93" facs="tcp:029987_0093_0FE3B71C43F3FA68"/>
+               <pb n="93" facs="unknown:029987_0093_0FE3B71C43F3FA68"/>
                <speaker>MRS. SMITH.</speaker>
                <p>I hope, Sir, they will ever retain them. Eliza and Ann, ſeek your brother, and take him with you into the pleaſure-garden.</p>
             </sp>
@@ -2192,7 +2192,7 @@ hope, madam, we ſhall imbibe the ſpirit of the Lacede<g ref="char:EOLhyphen"/>
                <p>It gives me pleaſure, Sir, to find that their amuſe<g ref="char:EOLhyphen"/>ments meet with your approbation. We are much in<g ref="char:EOLhyphen"/>debted to the Abbé Gaultier, and other learned men, who have condeſcended to enter into the playful ideas of children; ſo that learning is no longer a taſk, but a pleaſure; and what is attained by their own free-will makes an abiding impreſſion on their minds.</p>
             </sp>
             <sp>
-               <pb n="94" facs="tcp:029987_0094_0FE3B71F72B3EB60"/>
+               <pb n="94" facs="unknown:029987_0094_0FE3B71F72B3EB60"/>
                <speaker>MR. CARBONNEL.</speaker>
                <p>But, at the ſame time, they muſt have a good inſtruc<g ref="char:EOLhyphen"/>tor. You, madam, have ſo happily blended inſtruction with amuſement, that you can ſcarcely fail of gaining the hearts of your little pupils. They tell me the firſt thing they attend to in a morning is reading the Scriptures: even here you have ſtudied the peculiar propenſities of youth, by forming the hiſtorical parts into dialogues, and have thereby given yourſelf an opportunity of con<g ref="char:EOLhyphen"/>veying inſtruction of the utmoſt importance in a pleaſing and imperceptible manner. Miſs Smith has been ſo obli<g ref="char:EOLhyphen"/>ging as to lend me the manuſcript. Your Hiſtory of the Jews, from the time of the Babyloniſh captivity to the deſtruction of Jeruſalem by Titus, in letters, as an Ap<g ref="char:EOLhyphen"/>pendix to the hiſtory of the Bible, is a part of hiſtory which I have long wiſhed children to be acquainted with, as it tends to illuſtrate the ſacred writings by ſhow<g ref="char:EOLhyphen"/>ing us how fully the prophecies therein contained were fulfilled in the deſtruction of Jeruſalem, and the diſper<g ref="char:EOLhyphen"/>ſion of the Jews for their rejection of the Meſſiah.</p>
             </sp>
@@ -2206,7 +2206,7 @@ hope, madam, we ſhall imbibe the ſpirit of the Lacede<g ref="char:EOLhyphen"/>
                   <hi>(running in.)</hi> Mamma, Mr Noble's carriage is at the door. I won<g ref="char:EOLhyphen"/>der whether little Charles is with them; if he is I'll ſhew him my rocking horſe.</p>
             </sp>
             <sp>
-               <pb n="95" facs="tcp:029987_0095_0FE3B724BA6A8F30"/>
+               <pb n="95" facs="unknown:029987_0095_0FE3B724BA6A8F30"/>
                <speaker>MRS. SMITH</speaker>
                <p>
                   <hi>(on her return.)</hi> You will excuſe me, Sir, for ſo abruptly leaving you.</p>
@@ -2241,7 +2241,7 @@ hope, madam, we ſhall imbibe the ſpirit of the Lacede<g ref="char:EOLhyphen"/>
                <p>You have ſo good a ſurety, William, that I cannot deny it you.</p>
             </sp>
             <sp>
-               <pb n="96" facs="tcp:029987_0096_0FE3B5FA98AF5600"/>
+               <pb n="96" facs="unknown:029987_0096_0FE3B5FA98AF5600"/>
                <speaker>WILLIAM.</speaker>
                <p>Mamma, what a pretty gold watch it is!</p>
             </sp>
@@ -2295,7 +2295,7 @@ hope, madam, we ſhall imbibe the ſpirit of the Lacede<g ref="char:EOLhyphen"/>
                <speaker>WILLIAM.</speaker>
                <p>It would not be fair if you did not, for I love you; but my ſiſters are waiting for me to go a walking.</p>
                <p>
-                  <pb n="97" facs="tcp:029987_0097_0FE3B72D35AA8A68"/>
+                  <pb n="97" facs="unknown:029987_0097_0FE3B72D35AA8A68"/>
 In a little time Mr. Carbonnel was ſo far recovered, as to be able to go down ſtairs. One day, as he was ſit<g ref="char:EOLhyphen"/>ting in the parlour with the children, Eliza took a pic<g ref="char:EOLhyphen"/>ture out of her pocket.</p>
             </sp>
             <sp>
@@ -2334,7 +2334,7 @@ In a little time Mr. Carbonnel was ſo far recovered, as to be able to go down �
                <p>What was her name before ſhe married?</p>
             </sp>
             <sp>
-               <pb n="98" facs="tcp:029987_0098_0FE3B72FA7D17F28"/>
+               <pb n="98" facs="unknown:029987_0098_0FE3B72FA7D17F28"/>
                <speaker>ELIZA.</speaker>
                <p>Brown: but why, Sir, do you aſk me? did you know her?</p>
             </sp>
@@ -2368,7 +2368,7 @@ In a little time Mr. Carbonnel was ſo far recovered, as to be able to go down �
                <p>Sir, you ſurprize me!</p>
             </sp>
             <sp>
-               <pb n="99" facs="tcp:029987_0099_0FE3B73577D2F848"/>
+               <pb n="99" facs="unknown:029987_0099_0FE3B73577D2F848"/>
                <speaker>MR. CARBONNEL.</speaker>
                <p>They are my grand-children.</p>
             </sp>
@@ -2394,7 +2394,7 @@ In a little time Mr. Carbonnel was ſo far recovered, as to be able to go down �
                <p>Then William is your little boy, mamma, and Mr. Carbonnel's little boy.</p>
             </sp>
             <sp>
-               <pb n="100" facs="tcp:029987_0100_0FE3B7396DF073C8"/>
+               <pb n="100" facs="unknown:029987_0100_0FE3B7396DF073C8"/>
                <speaker>MRS. SMITH.</speaker>
                <p>Grand-papa's little boy.</p>
             </sp>
@@ -2412,14 +2412,14 @@ In a little time Mr. Carbonnel was ſo far recovered, as to be able to go down �
                <p>My poor ſuffering child! What miſery ſhe brought on herſelf! There was not any ſacrifice which I would not have made, could it have been productive of her hap<g ref="char:EOLhyphen"/>pineſs: but a reconciliation would not have had that effect. I knew Smith's diſpoſition too well, and like<g ref="char:EOLhyphen"/>wiſe the warmth of my own temper; that circumſtances might have occurred, which would have made him uſe her worſe, and then I ſhould have reflected upon myſelf, that I had made her unhappy; whereas, if I was at a diſtance ſhe could ſuffer no more than ſhe brought upon herſelf: but when I was informed that Smith uſed her ill, in hopes to haſten my death, I was determined to cut off all his expectations: I therefore ſold my eſtates, and went abroad; but the moment I heard of his death, I prepared to ſet off for England, not doubting but I ſhould <gap reason="illegible" resp="#AELD" extent="3 letters">
                      <desc>•••</desc>
                   </gap>d my dear Eliza. I applied to the War-office, to
-<pb n="101" facs="tcp:029987_0101_0FE3B73E63DBB7D0"/>
+<pb n="101" facs="unknown:029987_0101_0FE3B73E63DBB7D0"/>
 know where the regiment was quartered.—I immediate<g ref="char:EOLhyphen"/>ly flew to the place, and found her lodging, which ſhe had quitted ſix weeks before, but could not learn where ſhe was, only that ſhe was gone where one of her chil<g ref="char:EOLhyphen"/>dren was nurſed, for the ſake of the air, as ſhe was in a bad ſtate of health. My grief was inexpreſſible; but I was determined to travel through every county in ſearch of her. I have, at times, been almoſt diſtracted to think what ſhe and the children might ſuffer, as I knew Smith had nothing to leave them; the poor children would, indeed, have been in a deplorable ſituation, had not your goodneſs led you to take compaſſion on them. Oh, ma<g ref="char:EOLhyphen"/>dam! how ſhall I ever repay you the kindneſs you have ſhown theſe orphans?</p>
             </sp>
             <sp>
                <speaker>MRS. SMITH.</speaker>
                <p>I eſteem myſelf amply repaid, Sir, by your kindneſs, in permitting me ſtill to enjoy them as my own, for I find that affection for them, that it would imbitter all my comforts to part with them.</p>
                <p>Mr. Carbonnel bought an eſtate adjoining Mrs. Smith's; ſo that they mutually enjoyed the children. William was chiefly with his grand-papa, and Eliza and Ann with Mrs. Smith. The good old gentleman enjoy<g ref="char:EOLhyphen"/>ed his grand-children five years, when he was taken off ſuddenly;—went to bed in good health, and was found dead in the morning. The Carbonnel eſtate came to
-<pb n="120" facs="tcp:029987_0102_0FE3B728355390C8"/>
+<pb n="120" facs="unknown:029987_0102_0FE3B728355390C8"/>
 William; the reſt of his fortune was divided between his three grand-children, except a handſome legacy to Mrs. Smith, who was left their ſole guardian.</p>
             </sp>
          </div>
